@@ -9,5 +9,8 @@ Welcome to my Github profile. Here I'll be telling a little bit about myself and
     <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Luckerella/Luckerella.github.io/blob/master/devcard.svg" width="400" alt="Sharon's Dev Card"/></a>
   </a>
 </p>
-
+<hr />
+<p>Hello world!</p>
+<p>Welcome to my Github profile. Here I'll be telling a little bit about myself and my skills and accomplishments. 
+</p>
 <-- This page is in currently in development, please come back later. Thank you! -->
